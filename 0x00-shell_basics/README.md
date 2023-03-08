@@ -1,2 +1,2 @@
-0-current_working_directory
+0-current working directory
  prints absolute path of the current  working directory
